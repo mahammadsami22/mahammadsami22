@@ -38,19 +38,19 @@
 
 # :bar_chart: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekfaruq6\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahammadsami22\&show_icons=true\&theme=tokyonight)
 
 ---
 
 # :fire: GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=malekfaruq6\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mahammadsami22\&theme=tokyonight)
 
 ---
 
 # :chart_with_upwards_trend: Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekfaruq6\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadsami22\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -63,7 +63,7 @@
 ---
 
 # :earth_africa: Connect With Me
-Email: [malekfaruq6@gmail.com](mailto:malekfaruq6@gmail.com)
+Email: [2209030600021@silveroakuni.ac.in](mailto:2209030600021@silveroakuni.ac.in)
 
 ---
 
@@ -76,6 +76,6 @@ Email: [malekfaruq6@gmail.com](mailto:malekfaruq6@gmail.com)
 
 # :eyes: Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=malekfaruq6\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=mahammadsami22\&color=blue)
 
 ---
